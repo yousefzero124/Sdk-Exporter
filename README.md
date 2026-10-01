@@ -33,7 +33,6 @@ When dumping an Unreal Engine game with **Dumper-7** (or its variants like **Dum
 
 - **Lead Developer**: **Yousef_Zero**
 - **Copyright**: &copy; 2026 **Yousef_Zero**. All rights reserved.
-- **Icon / Mascot**: Custom Cat Logo (embedded directly into executable)
 
 ---
 
