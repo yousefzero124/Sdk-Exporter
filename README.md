@@ -1,8 +1,6 @@
 # ⚡ Unreal Engine Dumper-7 SDK Offset Exporter
 
-<p align="center">
-  <img src="Cat.ico" alt="SDK Exporter Logo" width="160" height="160" />
-</p>
+
 
 <p align="center">
   <strong>A high-performance, intelligent, multi-threaded C++20 tool to extract, categorize, and generate clean offsets from any Dumper-7 SDK.</strong>
